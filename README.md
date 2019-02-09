@@ -20,6 +20,10 @@
 `git push -u origin master`
 
 
+### REDUX
+
+Yarn add redux 
+Yarn add react-redux 
 
 
 
