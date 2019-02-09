@@ -9,7 +9,18 @@
 
 ### GIT
 
+`git init`
+
+`git add .`
+
+
 `git remote add origin https://github.com/pepe999/rozpocet.git`
+
+
+`git push -u origin master`
+
+
+
 
 
 
