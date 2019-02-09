@@ -10,8 +10,8 @@
 ### GIT
 
 `git remote add origin https://github.com/pepe999/rozpocet.git`
-``
 
 
-** poznámka **
+
+**poznámka**
 
